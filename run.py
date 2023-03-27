@@ -1,7 +1,1 @@
-import os
-if __name__ == "__main__":
-   try:
-       os.system("git pull")
-       __import__("halo").menu()
-   except Exception as e:
-       exit(str(e))
+1|0|2|2|2|u|0|_|a|2|2|2
